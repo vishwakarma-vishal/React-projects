@@ -1,1 +1,1 @@
-This repo. contains all the mini project which I have created while learning React.
+This repo. contains all the projects which I have created while learning React.
